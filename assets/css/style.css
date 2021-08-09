@@ -80,7 +80,7 @@ iframe{
 
 .callout-container{
     
-    background: url("../images/callout.jpg") no-repeat center fixed; 
+    background: url("../images/callout.jpeg") no-repeat center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -145,7 +145,7 @@ iframe{
 }
 
 .adult-classes-img {
-    background: url(../images/adult-classes.jpg) no-repeat;
+    background: url(../images/adult-classes.jpeg) no-repeat;
     background-size: cover;
     height: 400px;
     width: 100%;
@@ -159,7 +159,7 @@ iframe{
 
 
 .kids-classes-img {
-    background: url(../images/kids-classes.jpg) no-repeat;
+    background: url(../images/kids-classes.jpeg) no-repeat;
     background-size: cover;
     height: 400px;
     width: 100%;
@@ -230,7 +230,7 @@ footer{
 /*------------------------------- Classes Page - Classes */
 
 .classes-bg {
-    background: url(../images/classes.jpg) no-repeat center;
+    background: url(../images/classes.jpeg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -317,7 +317,7 @@ a.btn.btn-dark{
 
 
 .about-bg {
-    background: url(../images/sign-up.jpg) no-repeat center;
+    background: url(../images/sign-up.jpeg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;

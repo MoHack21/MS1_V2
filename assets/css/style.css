@@ -168,7 +168,9 @@ iframe{
     position: relative;
 }
 
-
+.short-classes-info{
+    text-align: left;
+}
 
 /*-- Footer */
 

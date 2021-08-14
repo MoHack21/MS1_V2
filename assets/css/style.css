@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap');
 
-/*------------------------------- General */
+/*-- General */
 
 body {
     font-family: 'Roboto', sans-serif;
@@ -38,7 +38,7 @@ em{
 iframe{
     min-width: 15vw;
 }
-/*------------------------------- Logo */
+/*-- Logo */
 
 
 
@@ -49,7 +49,7 @@ iframe{
     margin-left: 10px;
 }
 
-/*------------------------------- Navigation Bar */
+/*-- Navigation Bar */
 
 
 .navbar{
@@ -76,7 +76,7 @@ iframe{
 
 
 
-/*------------------------------- Callout */
+/*-- Callout */
 
 .callout-container{
     
@@ -114,7 +114,7 @@ iframe{
     font-size: 22px;
 }
 
-/*------------------------------- Modal */
+/*-- Modal */
 
 .modal-header{
     background-color: rgba(97, 48, 12, 0.7);
@@ -127,7 +127,7 @@ iframe{
 
 
 
-/*------------------------------- Classes */
+/*-- Classes */
 
 .classes{
     margin-bottom: 30px;
@@ -170,7 +170,7 @@ iframe{
 
 
 
-/*------------------------------- Footer */
+/*-- Footer */
 
 .footer-sub-heading {
     margin-bottom: 15px;
@@ -193,8 +193,6 @@ footer{
     margin: 0;
 
 }
-
-
 
 .social-links li a i{
     color: #fff;
@@ -227,7 +225,7 @@ footer{
     font-size: 18px;
 }
 
-/*------------------------------- Classes Page - Classes */
+/*-- Classes Page - Classes */
 
 .classes-bg {
     background: url(../images/classes.jpeg) no-repeat center;
@@ -299,7 +297,7 @@ a.btn.btn-dark{
     color: #fafafa;
 }
 
-/*------------------------------- schedule Table */
+/*-- schedule Table */
 
 .timeTable{
     margin-bottom: 30px;
@@ -331,7 +329,7 @@ a.btn.btn-dark{
 
 }
 
-/*------------------------------- Instructors */
+/*-- Instructors */
 
 .about-page{
     overflow: hidden;
@@ -340,7 +338,7 @@ a.btn.btn-dark{
 .about-heading{
     color: #fafafa;
     text-align: center;
-    padding-top: 3rem;
+    padding-top: 4rem;
     
 }
 hr{
@@ -351,19 +349,18 @@ hr{
 .instructorOne {
     background: url(../images/instructor1.jpeg) no-repeat top center;
     background-size:cover;
-    height: 300px;
-    width: 300px;
+    height: 250px;
+    width: 250px;
     border-radius: 50%;
     background-color: #808080cb;
- 
-    
+
 }
 
 .instructorTwo {
     background: url(../images/instructor2.jpeg) no-repeat top center;
     background-size:cover;
-    height: 300px;
-    width: 300px;
+    height: 250px;
+    width: 250px;
     border-radius: 50%;
     background-color: #808080cb;
     
@@ -396,7 +393,7 @@ hr{
     background-color: #07141c80;
 }
 
-/*------------------------------- Getting Here */
+/*-- Getting Here */
 
 .train, .bus, .car, .cycling{
     color: #fafafa;

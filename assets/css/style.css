@@ -59,7 +59,7 @@ iframe{
 }
 
 .join-btn {
-    background-color: #eec0c0;
+    background-color: #fafafa;
     padding: 10px;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
@@ -390,6 +390,10 @@ hr{
 .about-details{
     text-align: center;
     color: #fafafa;
+}
+
+.about-heading, .about-details{
+    background-color: #07141c80;
 }
 
 /*------------------------------- Getting Here */

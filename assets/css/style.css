@@ -405,3 +405,13 @@ hr{
     background-color: rgba(240, 231, 231, 0.336);
     
 }
+
+li.nav-item {
+    padding-left: 10px;
+}
+
+.map-iframe {
+    width: 70%; 
+    height: 300px;
+    border:0;
+}
